@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Music Social",
+    "slug": "music-social-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rish7585.musicsocial"
+    },
+    "android": {
+      "package": "com.rish7585.musicsocial"
+    }
+  }
+}
